@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>// We have to include this for abs() library function
 
+/*****************************
+*   Author: Md.  Rana Mahmud *
+*   r4n4m4hmud.wordpress.com *
+*****************************/
 int main()
 {
 
